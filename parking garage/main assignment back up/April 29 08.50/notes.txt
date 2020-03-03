@@ -1,0 +1,6 @@
+Notes:
+
+I had inheritance, but didn't need it
+Used a bunch of if/else if, changed to System.out.format()
+
+

@@ -1,0 +1,2 @@
+This is after the attempted load save for free and occupied spaces
+Before the attempt to remove it again

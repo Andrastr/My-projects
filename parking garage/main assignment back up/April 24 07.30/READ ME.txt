@@ -1,0 +1,3 @@
+Timer implemented,
+Vehicles now register when they park
+Zone load does not work, difference in what is in file and what loads

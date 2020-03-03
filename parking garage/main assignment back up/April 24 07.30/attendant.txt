@@ -1,0 +1,7 @@
+1:Nils:true
+2:Mark:true
+3:Halvor:false
+4:Kim:true
+5:Liv:true
+6:Johan:true
+7:Harald:true

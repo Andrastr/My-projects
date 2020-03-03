@@ -1,0 +1,2 @@
+Only saves the zones ArrayList, 5 boolean Arrays is created anew every time the program restarts
+Will continue with this one, finishing everything but save/load functions

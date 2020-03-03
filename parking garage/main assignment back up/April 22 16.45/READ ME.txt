@@ -1,0 +1,3 @@
+Ingen timer, 
+findSpace(); er feil,
+Allt kan lagre og loade (loadZone(); virker ikke?)

@@ -1,0 +1,5 @@
+Zone 1:true:1.0
+Zone 2:true:1.5
+Zone 3:true:2.0
+Zone 4:false:1.0
+Zone 5:false:0.5
